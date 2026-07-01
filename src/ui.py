@@ -23,7 +23,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     .main { background-color: #0e1117; }
-    .stMetric { background-color: #1e2130; padding: 15px; border-radius: 10px; border: 1px solid #2d3147; }
+    .stMetric { background-color: transparent; padding: 15px; border-radius: 10px; border: 1px solid #cccccc; }
     .yes-badge { background-color: #00c853; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold; }
     .no-badge { background-color: #d50000; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold; }
     .city-card { background-color: #1e2130; padding: 20px; border-radius: 15px; border: 1px solid #2d3147; margin: 10px 0; }
